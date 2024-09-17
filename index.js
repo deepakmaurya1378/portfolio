@@ -13,3 +13,8 @@ function newFeatures1() {
 function newFeatures2() {
     console.log("Say my surname its Maurya ");
 }
+
+function newFeatures3() {
+    console.log("Say your name its Deepak ");
+}
+
