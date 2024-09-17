@@ -18,3 +18,7 @@ function newFeatures3() {
     console.log("Say your name its Deepak ");
 }
 
+
+function newFeatures4() {
+    console.log("Say your surname its Maurya ");
+}
