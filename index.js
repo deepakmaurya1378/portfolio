@@ -22,3 +22,7 @@ function newFeatures3() {
 function newFeatures4() {
     console.log("Say your surname its Maurya ");
 }
+
+function newFeatures5() {
+    console.log("Say your surname its Maurya ");
+}
